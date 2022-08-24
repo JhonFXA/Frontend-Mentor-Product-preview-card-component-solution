@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/my-solution-uNj_KYnb81)
 - Live Site URL: [Click here](http://frontend-mentor-product-preview-card-component-solution.vercel.app/)
 
 ### Built with
